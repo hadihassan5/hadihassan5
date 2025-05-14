@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate **Front-End Developer** with expe
 - **HTML5**: Structuring the web with semantic, accessible, and SEO-friendly code.
 - **CSS3**: Styling modern websites with responsive layouts using Flexbox and Grid.
 - **JavaScript**: Adding interactivity and dynamic functionality to websites.
-- **Java**: Building object-oriented web applications and backend services.
+- **Java**: Basic knowledge of Java and OOP concepts.
 
 ### Design
 - **UI/UX Design**: Crafting user-friendly and visually appealing designs with an emphasis on usability.
