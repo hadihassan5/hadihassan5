@@ -1,4 +1,4 @@
-# Hadi's Front-End Development Portfolio
+# Hadi's Front-End Development - GitHub Profile
 
 Welcome to my GitHub profile! I'm a passionate **Front-End Developer** with expertise in creating responsive, modern, and visually appealing websites and applications. I specialize in **HTML**, **CSS**, **JavaScript**, and **UI/UX Design** using **Figma**.
 
@@ -99,8 +99,8 @@ A fully functional, responsive shopping store interface designed with a user-fri
 
 Feel free to reach out to me for collaboration or freelance opportunities:
 
-- 📧 Email: [your-email@example.com](mailto:your-hadipk110@gmail.com)
-- 🌐 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/hadihassan5/)
-- 🌍 Portfolio: [Your Portfolio](https://hadihassan5.github.io/Hadi-Portfolio/)
+- 📧 Email: [Email me](mailto:your-hadipk110@gmail.com)
+- 🌐 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/hadihassan5/)
+- 🌍 Portfolio: [My Portfolio](https://hadihassan5.github.io/Hadi-Portfolio/)
 
 Thanks for visiting my profile! I look forward to connecting.
