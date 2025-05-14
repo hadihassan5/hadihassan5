@@ -99,7 +99,7 @@ A fully functional, responsive shopping store interface designed with a user-fri
 
 Feel free to reach out to me for collaboration or freelance opportunities:
 
-- 📧 Email: [Email me](mailto:your-hadipk110@gmail.com)
+- 📧 Email: [Email me](mailto:hadipk110@gmail.com)
 - 🌐 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/hadihassan5/)
 - 🌍 Portfolio: [My Portfolio](https://hadihassan5.github.io/Hadi-Portfolio/)
 
