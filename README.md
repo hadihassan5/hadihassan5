@@ -31,14 +31,14 @@ Here are the main technologies and tools I work with:
 <img alt="Python" width="30px" src="Images/python.png"/>|<img alt="C" width="30px" src="Images/c-programming.png"/>|<img alt="C++" width="30px" src="Images/c++.png"/>|<img alt="Java" width="30px" src="Images/java.png"/>|<img alt="HTML" width="30px" src="Images/html.png"/>|<img alt="CSS" width="30px" src="Images/css-3.png"/>|<img alt="JavaScript" width="30px" src="Images/javascript.png"/>
 |--|--|--|--|--|--|--|
 
-**Tools**
-
-<img alt="Git" width="30px" src="Images/git.png"/>|
-<img alt="GitHub" width="30px" src="Images/github.png"/>|
-<img alt="VS Code" width="30px" src="Images/vscode.png"/>|
-<img alt="Visual Studio" width="30px" src="Images/VS.png"/>|
+**Tools**  
+<img alt="Git" width="30px" src="Images/git.png"/>
+<img alt="GitHub" width="30px" src="Images/github.png"/>
+<img alt="VS Code" width="30px" src="Images/vscode.png"/>
+<img alt="Visual Studio" width="30px" src="Images/VS.png"/>
 <img alt="Figma" width="30px" src="Images/figma.png"/>
-|--|--|--|--|--|
+|--|--|--|--|--|--|--|
+
 
 
 ## Projects
