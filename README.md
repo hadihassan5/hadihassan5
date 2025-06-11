@@ -26,16 +26,11 @@ Welcome to my GitHub profile! I'm a passionate **Front-End Developer** with expe
 
 Here are the main technologies and tools I work with:
 
-### Languages:
-<p>
-  <img alt="Python" width="30px" src="Images/python.png"/>
-  <img alt="C" width="30px" src="Images/c-programming.png"/>
-  <img alt="C++" width="30px" src="Images/c++.png"/>
-  <img alt="Java" width="30px" src="Images/java.png"/>
-  <img alt="HTML" width="30px" src="Images/html.png"/>
-  <img alt="CSS" width="30px" src="Images/css-3.png"/>
-  <img alt="JavaScript" width="30px" src="Images/javascript.png"/>
-</p>
+**Languages**
+
+<img alt="Python" width="30px" src="Images/python.png"/>|<img alt="C" width="30px" src="Images/c-programming.png"/>|<img alt="C++" width="30px" src="Images/c++.png"/>|<img alt="Java" width="30px" src="Images/java.png"/>|<img alt="HTML" width="30px" src="Images/html.png"/>|<img alt="CSS" width="30px" src="Images/css-3.png"/>|<img alt="JavaScript" width="30px" src="Images/javascript.png"/>
+|--|--|--|--|--|--|--|
+
 
 ### Tools:
 <div>
