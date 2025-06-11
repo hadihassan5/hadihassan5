@@ -31,20 +31,15 @@ Here are the main technologies and tools I work with:
 <img alt="Python" width="30px" src="Images/python.png"/>|<img alt="C" width="30px" src="Images/c-programming.png"/>|<img alt="C++" width="30px" src="Images/c++.png"/>|<img alt="Java" width="30px" src="Images/java.png"/>|<img alt="HTML" width="30px" src="Images/html.png"/>|<img alt="CSS" width="30px" src="Images/css-3.png"/>|<img alt="JavaScript" width="30px" src="Images/javascript.png"/>
 |--|--|--|--|--|--|--|
 
+**Tools**
 
-### Tools:
-<div>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-</a>
+<img alt="Git" width="30px" src="Images/git.png"/>|
+<img alt="GitHub" width="30px" src="Images/github.png"/>|
+<img alt="VS Code" width="30px" src="Images/vscode.png"/>|
+<img alt="Visual Studio" width="30px" src="Images/VS.png"/>|
+<img alt="Figma" width="30px" src="Images/figma.png"/>
+|--|--|--|--|--|
 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-</a>
-
-</div>
-
----
 
 ## Projects
 
@@ -73,13 +68,6 @@ A fully functional, responsive shopping store interface designed with a user-fri
 
 
 ---
-
-
-## GitHub Overview & Language Usage
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hadihassan5&show_icons=true&locale=en&layout=compact" alt="hadihassan5" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hadihassan5&show_icons=true&locale=en" alt="hadihassan5" /></p>
-
 
 ## Contact
 
