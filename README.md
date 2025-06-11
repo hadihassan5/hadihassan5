@@ -35,6 +35,8 @@ Here are the main technologies and tools I work with:
 <img alt="Git" width="30px" src="Images/git.png"/>|<img alt="GitHub" width="30px" src="Images/github.png"/>|<img alt="VS Code" width="30px" src="Images/vscode.png"/>|<img alt="Visual Studio" width="30px" src="Images/VS.png"/>|<img alt="Figma" width="30px" src="Images/figma.png"/>
 |--|--|--|--|--|--|--|
 
+**Databases**  
+<img alt="MongoDB" width="30px" src="Images/mongodb.png"/>|<img alt="Oracle" width="30px" src="Images/oracle.png"/>
 
 
 ## Projects
