@@ -36,7 +36,7 @@ Here are the main technologies and tools I work with:
 |--|--|--|--|
 
 **Databases**  
-<img alt="MongoDB" width="30px" src="Images/mongodb.png"/>|<img alt="Oracle" width="30px" src="Images/oracle.png"/>
+<img alt="MongoDB" width="30px" src="Images/mongodb.png"/>|<img alt="Oracle" width="30px" src="Images/Oracle.png"/>
 |--|--|
 
 ## Projects
