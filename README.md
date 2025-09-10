@@ -48,7 +48,7 @@ My personal portfolio to showcase skills, projects, and experience.
   <img align="left" alt="LinkedIn" width="40px" src="https://img.icons8.com/color/48/linkedin.png"/>
 </a>
 
-<a href="mailto:hadipk110@gmail.com" target="_blank">
+<a href="mailto:hadipk110@gmail.com">
   <img align="left" alt="Email" width="40px" src="https://img.icons8.com/color/48/gmail-new.png"/>
 </a>
 
