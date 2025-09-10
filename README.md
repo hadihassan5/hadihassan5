@@ -1,78 +1,57 @@
-# Hadi's Front-End Development - GitHub Profile
+<h1>Hi there, I am <a href="https://rohandas28.github.io" target="_blank">Hadi</a> 🙋🏽‍♂️</h1> 
 
-Welcome to my GitHub profile! I'm a passionate **Front-End Developer** with expertise in creating responsive, modern, and visually appealing websites and applications. I specialize in **HTML**, **CSS**, **JavaScript**, and **UI/UX Design** using **Figma**.
+A passionate **Front-End & Python Developer**, creating modern, responsive websites and exploring Python for AI, automation, and data projects.
 
+---
+## My Skills <img alt="Computer" width="35px" valign="middle" src="https://img.icons8.com/color/48/000000/monitor--v1.png"/>
 
-## Top Skills
-![Top Skills](https://img.shields.io/badge/HTML5-FF5733?style=flat&logo=html5&logoColor=white)
-![Top Skills](https://img.shields.io/badge/CSS3-2965f1?style=flat&logo=css3&logoColor=white)
-![Top Skills](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Top Skills](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Top Skills](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Top Skills](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+**Languages**  
 
-## Skills
-
-### Front-End Development
-- **HTML5**: Structuring the web with semantic, accessible, and SEO-friendly code.
-- **CSS3**: Styling modern websites with responsive layouts using Flexbox and Grid.
-- **JavaScript**: Adding interactivity and dynamic functionality to websites.
-- **Java**: Basic knowledge of Java and OOP concepts.
-
-### Design
-- **UI/UX Design**: Crafting user-friendly and visually appealing designs with an emphasis on usability.
-
-## Technologies & Tools
-
-Here are the main technologies and tools I work with:
-
-**Languages**
-
-<img alt="Python" width="30px" src="Images/python.png"/>|<img alt="C" width="30px" src="Images/c-programming.png"/>|<img alt="C++" width="30px" src="Images/c++.png"/>|<img alt="Java" width="30px" src="Images/java.png"/>|<img alt="HTML" width="30px" src="Images/html.png"/>|<img alt="CSS" width="30px" src="Images/css-3.png"/>|<img alt="JavaScript" width="30px" src="Images/javascript.png"/>
-|--|--|--|--|--|--|--|
+<img alt="Python" width="30px" src="Images/python.png"/>|<img alt="C" width="30px" src="Images/c-programming.png"/>|<img alt="C++" width="30px" src="Images/c++.png"/>|<img alt="Java" width="30px" src="Images/java.png"/>|<img alt="HTML" width="30px" src="Images/html.png"/>|<img alt="CSS" width="30px" src="Images/css-3.png"/>|<img alt="JavaScript" width="30px" src="Images/javascript.png"/>  
+|--|--|--|--|--|--|--|  
 
 **Tools**  
-<img alt="Git" width="30px" src="Images/git.png"/>|<img alt="VS Code" width="30px" src="Images/vscode.png"/>|<img alt="Visual Studio" width="30px" src="Images/VS.png"/>|<img alt="Figma" width="20px" src="Images/figma.png"/>
-|--|--|--|--|
+<img alt="Git" width="30px" src="https://img.icons8.com/color/48/git.png"/>|<img alt="GitHub" width="30px" src="https://img.icons8.com/glyph-neue/64/github.png"/>|<img alt="VS Code" width="30px" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>|<img alt="Visual Studio" width="30px" src="https://img.icons8.com/color/48/visual-studio--v2.png"/>|<img alt="Figma" width="30px" src="https://img.icons8.com/color/48/figma--v1.png"/>|<img alt="Jupyter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/>|<img alt="PyCharm" width="30px" src="https://img.icons8.com/color/48/pycharm.png"/>  
+|--|--|--|--|--|--|--|  
 
-**Databases**  
-<img alt="MongoDB" width="30px" src="Images/mongodb.png"/>|<img alt="Oracle" width="30px" src="Images/Oracle.png"/>
-|--|--|
-
-## Projects
-
-Here are some of the projects I've worked on:
-
-### 1. Tesla Clone
-An e-commerce website with a login/signup page, mimicking the Tesla store.
-
-<table> <tr> <td> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tesla_Motors.svg/120px-Tesla_Motors.svg.png" alt="Tesla Clone" width="50" height="50"/> </td> <td> <strong>Tesla Clone</strong><br/> A responsive e-commerce website clone inspired by the official Tesla store. Includes login/signup pages and smooth UI. <br/><br/> 🔗 <a href="https://github.com/hadihassan5/Tesla-Clone">View Project on GitHub</a> </td> </tr> </table>
-
-### 2. Shopping Store
-A fully functional, responsive shopping store interface designed with a user-friendly layout.
-
-<table>
-  <tr>
-    <td>
-      <img src="https://cdn-icons-png.flaticon.com/512/34/34568.png" alt="Shopping Store" width="50" height="50"/>
-    </td>
-    <td>
-      <strong>Shopping Store</strong><br/>
-      A fully functional, responsive shopping store interface designed with a clean layout and user-friendly experience. <br/><br/>
-      🔗 <a href="https://github.com/hadihassan5/Project_Shopping_Store">View Project on GitHub</a>
-    </td>
-  </tr>
-</table>
-
+**Libraries**  
+<img alt="Pandas" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"/>|<img alt="NumPy" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"/>|<img alt="Matplotlib" width="30px" src="https://matplotlib.org/_static/images/logo2.svg"/>|<img alt="Seaborn" width="30px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"/>|<img alt="Scikit-Learn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>  
+|--|--|--|--|--|  
 
 ---
 
-## Contact
+## 📂 Projects I’ve Worked On  
 
-Feel free to reach out to me for collaboration or freelance opportunities:
+### 🔹 [Jarvis AI Assistant](https://github.com/hadihassan5/Jarvis-AI-Assistant)  
+A personal virtual assistant built in Python that can open apps, search the web, and perform daily tasks with voice commands.  
 
-- 📧 Email: [Email me](mailto:hadipk110@gmail.com)
-- 🌐 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/hadihassan5/)
-- 🌍 Portfolio: [My Portfolio](https://hadihassan5.github.io/Hadi-Portfolio/)
+### 🔹 [AI Auto Reply Bot](https://github.com/hadihassan5/AI-AutoReply-Bot)  
+An intelligent auto-chat bot written in Python that replies to messages in real time using automation and AI.  
 
-Thanks for visiting my profile! I look forward to connecting.
+### 🔹 [Spotify Clone](https://github.com/hadihassan5/Spotify_Clone)  
+A front-end project inspired by Spotify with a clean UI and responsive design for music lovers.  
+
+### 🔹 [Portfolio Website](https://github.com/hadihassan5/Hadi-Portfolio)  
+My personal portfolio to showcase skills, projects, and experience.  
+
+---
+**Connect with Me**
+---
+
+<a href="https://hadihassan5.github.io">
+  <img align="left" alt="Portfolio" width="40px" src="https://img.icons8.com/color/48/domain--v1.png"/>
+</a>
+
+<a href="https://www.linkedin.com/in/hadihassan5">
+  <img align="left" alt="LinkedIn" width="40px" src="https://img.icons8.com/color/48/linkedin.png"/>
+</a>
+
+<a href="hadipk110@gmail.com">
+  <img align="left" alt="Email" width="40px" src="https://img.icons8.com/color/48/gmail-new.png"/>
+</a>
+
+<br clear="left"/>
+
+---
+
+✨ Always curious, always building whether it’s a sleek website or a smart Python script.  
