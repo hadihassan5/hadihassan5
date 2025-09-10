@@ -3,11 +3,12 @@
 A passionate **Front-End & Python Developer**, creating modern, responsive websites and exploring Python for AI, automation, and data projects.
 
 ---
+
 ## My Skills <img alt="Computer" width="35px" valign="middle" src="https://img.icons8.com/color/48/000000/monitor--v1.png"/>
 
 **Languages**  
 
-<img alt="Python" width="30px" src="Images/python.png"/>|<img alt="C" width="30px" src="Images/c-programming.png"/>|<img alt="C++" width="30px" src="Images/c++.png"/>|<img alt="Java" width="30px" src="Images/java.png"/>|<img alt="HTML" width="30px" src="Images/html.png"/>|<img alt="CSS" width="30px" src="Images/css-3.png"/>|<img alt="JavaScript" width="30px" src="Images/javascript.png"/>  
+<img alt="Python" width="30px" src="Images/python.png"/>|<img alt="C" width="30px" src="Images/c-programming.png"/>|<img alt="C++" width="30px" src="Images/c++.png"/>|<img alt="Java" width="30px" src="Images/java.png"/>|<img alt="HTML" width="30px" src="Images/html.png"/>|<img alt="CSS" width="30px" src="Images/css-3.png"/>|<img alt="JavaScript" width="30px" src="Images/javascript.png"/>
 |--|--|--|--|--|--|--|  
 
 **Tools**  
@@ -35,18 +36,19 @@ A front-end project inspired by Spotify with a clean UI and responsive design fo
 My personal portfolio to showcase skills, projects, and experience.  
 
 ---
+
 **Connect with Me**
 ---
 
-<a href="https://hadihassan5.github.io">
+<a href="https://hadihassan5.github.io/Hadi-Portfolio/" target="_blank">
   <img align="left" alt="Portfolio" width="40px" src="https://img.icons8.com/color/48/domain--v1.png"/>
 </a>
 
-<a href="https://www.linkedin.com/in/hadihassan5">
+<a href="https://www.linkedin.com/in/hadihassan5" target="_blank">
   <img align="left" alt="LinkedIn" width="40px" src="https://img.icons8.com/color/48/linkedin.png"/>
 </a>
 
-<a href="hadipk110@gmail.com">
+<a href="mailto:hadipk110@gmail.com" target="_blank">
   <img align="left" alt="Email" width="40px" src="https://img.icons8.com/color/48/gmail-new.png"/>
 </a>
 
