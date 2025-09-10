@@ -40,19 +40,10 @@ My personal portfolio to showcase skills, projects, and experience.
 **Connect with Me**
 ---
 
-<a href="https://hadihassan5.github.io/Hadi-Portfolio/" target="_blank">
-  <img align="left" alt="Portfolio" width="40px" src="https://img.icons8.com/color/48/domain--v1.png"/>
-</a>
+[![Portfolio](https://img.icons8.com/color/48/domain--v1.png)](https://hadihassan5.github.io/Hadi-Portfolio/) 
+[![LinkedIn](https://img.icons8.com/color/48/linkedin.png)](https://www.linkedin.com/in/hadihassan5) 
+[![Email](https://img.icons8.com/color/48/gmail-new.png)](https://mail.google.com/mail/?view=cm&fs=1&to=hadipk110@gmail.com)
 
-<a href="https://www.linkedin.com/in/hadihassan5" target="_blank">
-  <img align="left" alt="LinkedIn" width="40px" src="https://img.icons8.com/color/48/linkedin.png"/>
-</a>
-
-<a href="mailto:hadipk110@gmail.com">
-  <img align="left" alt="Email" width="40px" src="https://img.icons8.com/color/48/gmail-new.png"/>
-</a>
-
-<br clear="left"/>
 
 ---
 
